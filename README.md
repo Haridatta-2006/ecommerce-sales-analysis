@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-This project analyzes e-commerce sales data using Excel and Power BI to generate business insights.
+Analyze e-commerce sales data to identify key trends, top-performing products, and regional performance to support business decision-making.
 
 ##  Tools Used
 
