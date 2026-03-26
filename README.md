@@ -1,31 +1,25 @@
-# E-commerce Sales Analysis Dashboard
+#  E-commerce Sales Analysis Dashboard
 
 ##  Project Overview
+Analyzed e-commerce sales data to identify key trends, top-performing products, and regional performance to support business decision-making.
 
-Analyze e-commerce sales data to identify key trends, top-performing products, and regional performance to support business decision-making.
-
-##  Tools Used
-
-* Microsoft Excel
-* Power BI
+## Tools Used
+- Microsoft Excel  
+- Power BI  
 
 ##  Key Features
-
-* KPI Cards: Sales, Profit, Quantity
-* Sales by Region analysis
-* Profit by Category
-* Sales Trend over time
-* Top 10 Products analysis
-* Interactive slicers (Region, Category, Year)
+- KPI Cards: Sales, Profit, Quantity  
+- Sales analysis by Region  
+- Profit comparison by Category  
+- Sales trend over time (Year-wise)  
+- Top 10 Products analysis  
+- Interactive slicers (Region, Category, Year)  
 
 ##  Insights
-
-* Certain regions contribute more to total sales
-* Technology category generates higher profit
-* Sales show growth trend over years
-* Few products contribute major revenue
-
+- Certain regions contribute significantly to total sales  
+- Technology category generates higher profit  
+- Sales show a consistent growth trend over years  
+- A small number of products contribute to major revenue  
 
 ##  Conclusion
-
-This dashboard helps in understanding business performance and supports data-driven decision making.
+This dashboard provides clear insights into business performance and helps in making data-driven decisions.
